@@ -1,2 +1,2 @@
 # deco-chart-lp
-DECOCHARTのLP
+DECOCHARTのランディングページ兼ダウンロードサイト（開発中）
